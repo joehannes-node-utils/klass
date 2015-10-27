@@ -1,0 +1,29 @@
+{
+  "name": "klass",
+  "version": "0.1.0",
+  "description": "a nice base class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehannes-utils/klass.git"
+  },
+  "keywords": [
+    "class",
+    "base",
+    "klass",
+    "proxy",
+    "magic"
+  ],
+  "author": "DI <johannes.neugschwentner@gmail.com> (FH)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joehannes-utils/klass/issues"
+  },
+  "homepage": "https://github.com/joehannes-utils/klass#readme",
+  "dependencies": {
+    "harmony-reflect": "^1.4.2"
+  }
+}
